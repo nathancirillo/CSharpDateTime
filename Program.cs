@@ -181,11 +181,19 @@ namespace LearnDateTime
 
             //is day light saving time or not (horário de verão).
             System.Console.WriteLine(DateTime.Now.IsDaylightSavingTime());
+
+            //show the day of the week passing an integer value
+            System.Console.WriteLine(GetDayOfWeek(1));
         }
 
         static bool IsWeekeend(DayOfWeek today)
         {
             return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
+        }
+
+        static DayOfWeek GetDayOfWeek(int day)
+        {
+            return (DayOfWeek)day;
         }
     }
 }
