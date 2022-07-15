@@ -1,0 +1,15 @@
+C:\Projetos\BaltaIO\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Projetos\BaltaIO\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Projetos\BaltaIO\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Projetos\BaltaIO\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Projetos\BaltaIO\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Projetos\BaltaIO\DateTime\obj\Debug\net6.0\ref\DateTime.dll
