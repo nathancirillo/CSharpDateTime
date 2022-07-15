@@ -46,6 +46,7 @@
             var formattedSix = string.Format("{0:MM}", currentDate);
             var formattedSeven = string.Format("{0:yyyy-MM-dd}", currentDate);
             var formattedEight = string.Format("{0:dd/MM/yyyy hh:mm:ss}", currentDate);
+            var formattedNine = string.Format("{0:yyyy * MM * dd}", currentDate); 
 
             Console.WriteLine($"Data formatada: {formattedOne}.");
             Console.WriteLine($"Data formatada: {formattedTwo}.");
@@ -54,7 +55,8 @@
             Console.WriteLine($"Data formatada: {formattedFive}.");
             Console.WriteLine($"Data formatada: {formattedSix}.");
             Console.WriteLine($"Data formatada: {formattedSeven}.");
-            Console.WriteLine($"Data formatada: {formattedEight}.");                  
+            Console.WriteLine($"Data formatada: {formattedEight}.");   
+            Console.WriteLine($"Data formatada: {formattedNine}.");               
         }
     }
 }
